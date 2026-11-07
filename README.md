@@ -50,6 +50,22 @@ I created this repository to maintain an organized record of my LeetCode practic
 | 125 | Valid Palindrome | Easy | String, Two Pointers | [Python](Easy/007-Valid-Palindrome.py) |
 | 344 | Reverse String | Easy | String, Two Pointers | [Python](Easy/008-Reverse-String.py) |
 | 509 | Fibonacci Number | Easy | Math, Dynamic Programming | [Python](Easy/009-Fibonacci-Number.py) |
+| 258 | Add Digits | Easy | Math | [Python](Easy/010-Add-Digits.py) |
+| 268 | Missing Number | Easy | Array, Math, Bit Manipulation | [Python](Easy/011-Missing-Number.py) |
+| 121 | Best Time to Buy and Sell Stock | Easy | Array, Dynamic Programming | [Python](Easy/012-Best-Time-to-Buy-and-Sell-Stock.py) |
+| 374 | Guess Number Higher or Lower | Easy | Binary Search | [Python](Easy/013-Guess-Number-Higher-or-Lower.py) |
+| 1 | Two Sum | Easy | Array, Hash Map | [Python](Easy/014-Two-Sum.py) |
+| 242 | Valid Anagram | Easy | String, Hash Map | [Python](Easy/015-Valid-Anagram.py) |
+| 205 | Isomorphic Strings | Easy | String, Hash Map | [Python](Easy/016-Isomorphic-Strings.py) |
+| 3520 | Binary Digit Score | Easy | bit manipulation | [Python](Easy/017-Binary-Digit-Score.py) |
+| 26 | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | [Python](Easy/018-Remove-Duplicates-from-Sorted-Array.py) |
+| 4097 | Minimum Value of Merged Integer | Easy | String | [Python](Easy/019-Minimum-Value-of-Merged-Integer.py) |
+| 453 | Minimum Moves to Equal Array Elements | Easy | Array, Math | [Python](Easy/20_Minimum-Moves-to-Equal-Array-Elements.py) |
+| 27 | Remove Element | Easy | Array, Two Pointers | [Python](Easy/21-Remove-Element.py) |
+| 69 | Sqrt(x) | Easy | Math, Binary Search | [Python](Easy/22-Sqrt(x).py) |
+| 75 | Sort Colors | Medium | Array, Two Pointers, Sorting | [Python](Medium/01-Sort-Colors.py) |
+| 2149 | Rearrange Array Elements by Sign | Medium | Array, Two Pointers | [Python](Medium/02-Rearrange-Array-Elements-by-Sign.py) |
+| 4098 | Minimize the Maximum Value of GCD-Connected Array| Medium | TODO | [Python](Medium/03-Minimize-the-Maximum-Value-of-GCD-Connected-Array.py) |
 
 ---
 
